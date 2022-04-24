@@ -3,7 +3,7 @@ const router = express.Router()
 
 const TEMPLATE = `
     <div>
-        <a href="/user/" >GO TO A</a>
+        <a href="/user/" >GO TO /</a>
         <a href="/user/a">GO TO A</a>
         <a href="/user/b">GO TO B</a>
     </div>
